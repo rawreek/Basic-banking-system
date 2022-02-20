@@ -1,5 +1,5 @@
 # Basic-banking-system
-#task1 of web development intern at the spark's foundation
+#task1 of web development internship at the the spark's foundation
 
 Task: Create a simple dynamic website which has-
     *dummy database for upto 10 customers
