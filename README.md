@@ -8,5 +8,5 @@ Task: Create a simple dynamic website which has-
     *flow: home page > view all customers > select and view one customer > transfer money > select customer to tranfer to > view all customers
 
 
-Project Link:-https://rawreek.github.io/Basic-banking-system/
+Project Link:-https://rawreek.github.io/Basic-banking-system.github.io/
 
